@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<title>Sample Layout</title>
+		<link href="layout.css" rel="stylesheet" type="text/css">
+	</head>
+	
+<body>
+	<header><img src="acmewidgets.jpg" alt="ACME Widgets LLC"></header>
+	<div id="wrapper">
+		<div id="content_area">
+				<h1>Welcome to ACME Widgets!</h1>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing</p>		
+		</div>
+			<div id="left_side">
+				<ul>
+					<li><a href="#">Mission</a></li>
+					<li><a href="#">History</a></li>
+					<li><a href="#">Executive Team</a></li>
+					<li><a href="#">Contact Us</a></li>
+				</ul>
+			</div>
+			<div id="right_side">
+				<p><strong>SPECIAL WIDGET DEAL!</strong></p>
+				<p>Buy three widgets and get a fourth for free! Act now!</p>
+			</div>
+	</div>
+	<footer>Copyright information usually goes here in the footer.</footer>
+
+</body>	
+
+</html>
